@@ -1,4 +1,4 @@
-## Blue Ripple Politics 
+## [Blue Ripple Politics](https://blueripplepolitics.org/) 
 
 ### Introduction
 We are progressive citizens who are despondent and angry — 
