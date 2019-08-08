@@ -51,8 +51,8 @@ of the data or the algorithms used to analyze them.
 - We're also always interested in comments on posts or analyses we've done
 and ideas for new ones.  Feel free to raise those as issues here or contact 
 us via email 
-(adam@blueripplepolitics.org or frank@blueripplepolitics.org) or
-twitter (@blueripplepol).
+(adam@blueripplepolitics.org or frank@blueripplepolitics.org) 
+[@BlueRipplePol](https://twitter.com/BlueRipplePol) on twitter.
 
 ### Repo Guide
 - [Guide](https://github.com/blueripple/Guide): 
