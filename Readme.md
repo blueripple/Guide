@@ -7,6 +7,17 @@ but determined to help make America bluer, support voting rights, and end gerrym
 How? By helping you make informed choices about how to 
 support important candidates and ballot initiatives with your time and money.
 
+Starting this fall, 
+we will produce and disseminate independent writing and analysis 
+(1-2 emails per month; maybe a few more right before an election — we promise we won’t spam you!). 
+We aim to:
+
+- Help progressives identify key local, state, and national races where our donations of effort or money could have an outsized impact;
+
+- Identify races and ballot initiatives to support that will enable voter turnout and enfranchisement, and counter voter suppression and gerrymandering; and,
+
+- Collect and broadly disseminate data, tools, and resources to support “open source” election data analysis and modeling by progressives.
+
 ### Open Code and Data
 We plan to make all of our code, and, to the extent possible, 
 whatever data we use, available here
@@ -35,7 +46,11 @@ if you do so we can help and so we know what is useful to others.
 [issues](https://github.com/blueripple/Guide/issues) here,
 or in specific repos, to discuss the details
 of the data or the algorithms used to analyze them.
-
+- We're also always interested in comments on posts or analyses we've done
+and ideas for new ones.  Feel free to raise those as issues here or contact 
+us on [FB](https://www.facebook.com/blueripplepolitics/), via email 
+(adam@blueripplepolitics.org) or
+twitter (@blueripplepol).
 
 ### Repo Guide
 - [Guide](https://github.com/blueripple/Guide): 
