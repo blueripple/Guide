@@ -15,8 +15,8 @@ of existing data, etc. will be helpful.  The code will also be here--or open-sou
 elsewhere with links from here--so that our methods and approach are clear and open
 to criticism and refinement.
 
-Some publicly available data that we wish to analyze may be too big to host here.  
-In those  cases we will note that in any post using that data and make sure to provide links.
+Some publicly available data that we wish to analyze may be too big to host here. In 
+those  cases we will note that in any post using that data and make sure to provide links.
 
 ### Data-Science and Ethics
 We are mindful that data-science brings with it ethical concerns and pitfalls.  As 
