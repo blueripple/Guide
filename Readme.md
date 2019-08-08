@@ -50,14 +50,14 @@ or in specific repos, to discuss the details
 of the data or the algorithms used to analyze them.
 - We're also always interested in comments on posts or analyses we've done
 and ideas for new ones.  Feel free to raise those as issues here or contact 
-us on [FB](https://www.facebook.com/blueripplepolitics/), via email 
-(adam@blueripplepolitics.org) or
+us via email 
+(adam@blueripplepolitics.org or frank@blueripplepolitics.org) or
 twitter (@blueripplepol).
 
 ### Repo Guide
 - [Guide](https://github.com/blueripple/Guide): 
 This Repo, just a readme with introduction and summaries of the other repos
-- [blueripple.gihub.io](https://github.com/blueripple/blueripple.github.io): 
+- [blueripple.github.io](https://github.com/blueripple/blueripple.github.io): 
 repo purely for hosting html.  Various more technical
 reports and method summaries will be hosted here.
 - [BlueRipple](https://github.com/blueripple/BlueRipple): 
