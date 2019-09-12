@@ -9,7 +9,9 @@ As we publish new pieces, we'll add relevant data here.
 - Some data we combine or simplify for analysis.  In those cases we will link the data-set we use in column 1 and the source in column 2.
 - Finally, some data is too large to store a local copy on github.  In that case, we don't link to the outside data-set in column 1 and do link to the provider in column 2.
 
-In all cases, the link in column 1 should be to a file or page conaining a file which is *exactly* the one we are using in our analyis.
+In all cases, the link in column 1 should be to a file or page containing 
+a file which is *exactly* the one we are using in our analyis. 
+When possible we keep the data in github so that there is a versioned history if the file changes.
 
 | Data Set                                          | Source                 | Comment/Description                        |
 | ------------------------------------------------- | ---------------------- | -----------------------------------------  |
