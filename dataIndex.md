@@ -1,7 +1,7 @@
 # Blue Ripple Data Index
 
 ## Description
-The table below contains links to all the data we use in our research pieces at [Blue Ripple Politics](https://www.blueripple.org).
+The table below contains links to all the data we use in our research pieces at [Blue Ripple Politics](https://www.blueripplepolitics.org).
 As we publish new pieces, we'll add relevant data here.
 
 - Some data we use exactly as is from a provider.  In that case we link our local copy in column 1 of the table and the provider page in column 2.
