@@ -2,15 +2,16 @@
 
 ## Description
 The table below contains links to all the data we use in our research pieces at [Blue Ripple Politics](https://www.blueripple.org).
+As we publish new pieces, we'll add relevant data here.
 
 - Some data we use exactly as is from a provider.  In that case we link our local copy in column 1 of the table and the provider page in column 2.
 - Other data we pull using an API.  In that case we link our local version in column 1 and to an API reference or data source description in column 2.
 - Finally, some data is too large to store a local copy on github.  In that case, we don't link to the outside data-set in column 1 and do link to the provider in column 2.
 
 
-| Data Set                                                                                                                                      | Source           | Comment/Description                                                         |
-| -------------------------------------------------                                                                                                           | ---------------- | -----------------------------------------                                   |
-| [House Election Results (1976-2018), version 5.0](https://github.com/blueripple/BlueRipple/blob/master/data/1976-2018-house_v5.csv)   | [MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2&version=5.0) | U.S. House election results from 1976 through 2018 (NB: The local version is edited to remove unparseable characters and changed some "NA" to "FALSE" in the "runoff" field.)                           |
+| Data Set                                          | Source                 | Comment/Description                        |
+| ------------------------------------------------- | ---------------------- | -----------------------------------------  |
+| [House Election Results (1976-2018), version 5.0](https://github.com/blueripple/BlueRipple/blob/master/data/1976-2018-house_v5.csv)   | [MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2&version=5.0) | U.S. House election results from 1976 through 2018 (NB: The local version is edited to remove unparseable characters and change some "NA" to "FALSE" in the "runoff" field.)                           |
 | [Voter Turnout by Age, Sex and Education](https://github.com/blueripple/BlueRipple/blob/master/data/DetailedTurnoutByAgeSexEducation2010-2018.csv) | [US Census Voter Turnout Data](https://www.census.gov/topics/public-sector/voting/data/tables.2018.html)| Combined census voter turnout broken down by Age, Sex and Education for 2010-2018.  Local version is hand copy/pasted from various spreadsheets published by the Census Bureau. |
 | [Voter Turnout by Age, Sex and Race](https://github.com/blueripple/BlueRipple/blob/master/data/DetailedTurnoutByAgeSexRace2010-2018.csv) | [US Census Voter Turnout Data](https://www.census.gov/topics/public-sector/voting/data/tables.2018.html)| Combined census voter turnout broken down by Age, Sex and Race for 2010-2018. Local version is hand copy/pasted from various spreadsheets published by the Census Bureau. |
 | [Congressional District Demographics by Age, Sex and Education](https://github.com/blueripple/BlueRipple/blob/master/data/ageSexEducationDemographics2010-2017.csv) | [US Census ACS Data](https://www.census.gov/programs-surveys/acs)| Demographic Data from the Census American Communnity Survey (ACS). Local version is pulled and aggregated using the [census ACS API](https://www.census.gov/data/developers/data-sets/acs-1year.html) via code in the [census-tools](https://github.com/blueripple/census-tools) repo. |
