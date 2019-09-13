@@ -69,12 +69,16 @@ us via email
 ### Repo Guide
 - [Guide](https://github.com/blueripple/Guide): 
 This Repo, just a readme with introduction and summaries of the other repos
+- [data-sets](https://github.com/blueripple/data-sets)
+Contains any data-set we use which can be hosted on github.  Also a small Haskell
+wrapper for using Frames as a data-set container for these data-sets.
 - [blueripple.github.io](https://github.com/blueripple/blueripple.github.io): 
-repo purely for hosting html.  Various more technical
-reports and method summaries will be hosted here.
-- [BlueRipple](https://github.com/blueripple/BlueRipple): 
-Currently the main repository for data-driven report building.  Will 
-likely be split into separate repos for different sorts of analysis.
+repo purely for hosting html. Research posts and technical addenda are here.
+- [preference-model](https://github.com/blueripple/preference-model):
+Code for doing demographic voter-preference inference from 
+congressional district demographics, turnout data and election results.
+Also contains bits of other research projects, soon to be split into 
+their own repos.
 - [FEC](https://github.com/blueripple/FEC): 
 A set of (Haskell) tools for querying the OpenFEC api for Federal
 Election Commission data.  This has been used mainly to query spending data
@@ -84,5 +88,5 @@ directory in files beginning with "allSpending".
 - [census-tools](https://github.com/blueripple/census-tools): A set of (Haskell)
 tools for querying the census American Community Survey (ACS) api.  Used for
 pulling ACS data into CSV files for use by the Blue Ripple Politics national
-voter preference model.
+voter preference model. 
 
