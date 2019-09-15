@@ -19,7 +19,10 @@ voter turnout and enfranchisement, and counter voter suppression and gerrymander
 - Collect and broadly disseminate data, tools,
 and resources to support “open source” election data analysis and modeling by progressives.
 
-Please [visit](https://blueripplepolitics.org/) us on the web and [join](http://eepurl.com/gzmeQ5) our mailing list!
+Please [visit](https://blueripplepolitics.org/) us on the web,
+like our [FB page](https://www.facebook.com/blueripplepolitics),
+follow [@blueripplepol](https://twitter.com/BlueRipplePol) on twitter,
+and [join](http://eepurl.com/gzmeQ5) our mailing list!
 
 ### Open Code and Data
 We plan to make all of our code, and, to the extent possible, 
@@ -37,7 +40,7 @@ both in the post itself and in our
 
 ### Code of Conduct
 Our code-of-conduct, based on the 
-[Contributor Covenant](https://www.contributor-covenant.org/) is 
+[Contributor Covenant](https://www.contributor-covenant.org/), is 
 [here](https://github.com/blueripple/Guide/blob/master/CODE_OF_CONDUCT.md)
 and applies to all communications and contributions to Blue Ripple Politics.
 
