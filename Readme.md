@@ -8,8 +8,7 @@ support voting rights, and end gerrymandering.
 How? By helping you make informed choices about how to 
 support important candidates and ballot initiatives with your time and money.
 
-Starting this fall, 
-we will produce and disseminate independent writing and analysis 
+Our plan is to produce and disseminate independent writing and analysis 
 (1-2 emails per month; maybe a few more right before an election — we promise we won’t spam you!). 
 We aim to:
 
@@ -20,7 +19,10 @@ voter turnout and enfranchisement, and counter voter suppression and gerrymander
 - Collect and broadly disseminate data, tools,
 and resources to support “open source” election data analysis and modeling by progressives.
 
-Please [visit](https://blueripplepolitics.org/) us on the web and join our mailing list!
+Please [visit](https://blueripplepolitics.org/) us on the web,
+like our [FB page](https://www.facebook.com/blueripplepolitics),
+follow [@blueripplepol](https://twitter.com/BlueRipplePol) on twitter,
+and [join](http://eepurl.com/gzmeQ5) our mailing list!
 
 ### Open Code and Data
 We plan to make all of our code, and, to the extent possible, 
@@ -38,7 +40,7 @@ both in the post itself and in our
 
 ### Code of Conduct
 Our code-of-conduct, based on the 
-[Contributor Covenant](https://www.contributor-covenant.org/) is 
+[Contributor Covenant](https://www.contributor-covenant.org/), is 
 [here](https://github.com/blueripple/Guide/blob/master/CODE_OF_CONDUCT.md)
 and applies to all communications and contributions to Blue Ripple Politics.
 
