@@ -74,7 +74,7 @@ Contains any data-set we use which can be hosted on github.  Also a small Haskel
 wrapper for using Frames as a data-set container for these data-sets.
 - [blueripple.github.io](https://github.com/blueripple/blueripple.github.io): 
 repo purely for hosting html. Research posts and technical addenda are here.
-- [preference-model](https://github.com/blueripple/preference-model):
+- [blueripple-research](https://github.com/blueripple/blueripple-research):
 Code for doing demographic voter-preference inference from 
 congressional district demographics, turnout data and election results.
 Also contains bits of other research projects, soon to be split into 
